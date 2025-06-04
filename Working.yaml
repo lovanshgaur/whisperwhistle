@@ -1,0 +1,6 @@
+Stage-A
+      -- Create connectDB function to connect to MONGODB
+      -- Created User Schema and Post Schema 
+      -- Updated the server.js and the API is Whispering....!
+      -- added middleware asyncHandler to handle async errors ignoring the try-catch mess
+      
