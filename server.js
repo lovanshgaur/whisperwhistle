@@ -10,8 +10,8 @@ const dotenv = require('dotenv');
 dotenv.config();
 const PORT = process.env.PORT
 
-//initiating express app
-const app = express();
+//app from ./app.js
+const app = require('./app');
 
 //running connectDB 
 connectDB();

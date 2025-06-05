@@ -3,4 +3,13 @@ Stage-A
       -- Created User Schema and Post Schema 
       -- Updated the server.js and the API is Whispering....!
       -- added middleware asyncHandler to handle async errors ignoring the try-catch mess
+      -- added middleware errorHandler to catch errors centrally
+      -- added middleware auth to verify JWT and attach user info to the request
       
+Stage-B 
+      -- Created userControllers - register
+                                 - login
+                                 - myInfo
+      -- Created userRoutes - /whisper/register [POST]
+                            - /whisper/login  [POST]
+                            - /whisper/me [GET]      

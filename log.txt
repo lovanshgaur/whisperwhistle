@@ -1,0 +1,10 @@
+UserRegister-001
+{
+    "success": true,
+    "data": {
+        "_id": "68409d2292b47cd5f0c11cfe",
+        "email": "lovanshgaur@gmail.com",
+        "avatar": "avt.jpg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NDA5ZDIyOTJiNDdjZDVmMGMxMWNmZSIsImlhdCI6MTc0OTA2NDk5NCwiZXhwIjoxNzQ5MTUxMzk0fQ.jzBSXy9WoD5jDMB267FA_CQFLOYoNuJ6jXgpgL7CPOA"
+    }
+}
